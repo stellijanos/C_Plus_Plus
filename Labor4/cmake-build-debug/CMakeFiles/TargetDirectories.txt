@@ -1,0 +1,3 @@
+D:/Facultatea de mate info/Semestrul 2/3. OOP/Laborator - KNOLL Dominik/Labor4/cmake-build-debug/CMakeFiles/Labor4.dir
+D:/Facultatea de mate info/Semestrul 2/3. OOP/Laborator - KNOLL Dominik/Labor4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Facultatea de mate info/Semestrul 2/3. OOP/Laborator - KNOLL Dominik/Labor4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
