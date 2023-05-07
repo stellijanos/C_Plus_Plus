@@ -1,0 +1,3 @@
+D:/Facultatea de mate info/Licenta-ANUL 1/Semestrul 2/OOP/Laborator/Labor1/cmake-build-debug/CMakeFiles/Labor1.dir
+D:/Facultatea de mate info/Licenta-ANUL 1/Semestrul 2/OOP/Laborator/Labor1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Facultatea de mate info/Licenta-ANUL 1/Semestrul 2/OOP/Laborator/Labor1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
